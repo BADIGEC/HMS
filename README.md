@@ -49,10 +49,15 @@ Update Profile
 Total Hospital Earnings
 
 **Project Name:	Hospital Management System**
+
 **Languages Used:	PHP**
+
 **PHP version (Recommended):	5.6 or Newer**
+
 **Database:	MySQL**
+
 **Type:	Web Application, Website**
+
 **Developer:	Chaitra**
 
 
